@@ -8,3 +8,4 @@ opencv-python==4.7.0.72
 pydantic
 fastapi
 uvicorn
+numpy<2.0
